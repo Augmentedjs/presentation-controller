@@ -26,11 +26,11 @@ module.exports = {
     ]
   },
   externals: {
-    'augmentedjs-next': {
-      commonjs: 'augmentedjs-next',
-      commonjs2: 'augmentedjs-next',
-      amd: 'augmentedjs-next',
-      root: 'Augmented'
+    'next-core-object': {
+      commonjs: 'next-core-object',
+      commonjs2: 'next-core-object',
+      amd: 'next-core-object',
+      root: 'next-core-object'
     }
   },
   stats: "errors-only",
