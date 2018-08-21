@@ -43,7 +43,8 @@
     "webpack-cli": "^2.1.5"
   },
   "dependencies": {
-    "next-core-object": "^2.5.4"
+    "next-core-object": "^2.5.4",
+    "next-core-utilities": "^2.5.5"
   },
   "bugs": {
     "url": "https://github.com/Augmentedjs/presentation-controller/issues"
