@@ -1,6 +1,6 @@
 {
   "name": "presentation-controller",
-  "version": "2.5.4",
+  "version": "2.5.5",
   "description": "The Augmented.js Next - Presentation Controller Module.",
   "main": "dist/presentation-controller.js",
   "scripts": {
