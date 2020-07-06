@@ -79,13 +79,14 @@ window.lunrData = {
           "viewcontroller#view"
         ],
         "ViewController.html#permissions": [
-          "controllerreturn",
+          "control",
           "exclud",
           "format",
           "get",
           "includ",
           "member",
           "permiss",
+          "return",
           "viewcontroller#permiss"
         ],
         "ViewController.html#initialize": [
@@ -191,8 +192,9 @@ window.lunrData = {
         "ManagedController.html": [
           "automat",
           "class",
-          "componentsdata",
+          "compon",
           "control",
+          "data",
           "manag",
           "managedcontrol",
           "option",
@@ -371,7 +373,7 @@ window.lunrData = {
                       "docs": {
                         "ManagedController.html": {
                           "ref": "ManagedController.html",
-                          "tf": 4.545454545454546
+                          "tf": 4.166666666666666
                         }
                       }
                     }
@@ -566,6 +568,20 @@ window.lunrData = {
                 }
               }
             }
+          },
+          "a": {
+            "docs": {},
+            "t": {
+              "docs": {},
+              "a": {
+                "docs": {
+                  "ManagedController.html": {
+                    "ref": "ManagedController.html",
+                    "tf": 4.166666666666666
+                  }
+                }
+              }
+            }
           }
         },
         "i": {
@@ -620,7 +636,7 @@ window.lunrData = {
                     "docs": {
                       "ViewController.html#permissions": {
                         "ref": "ViewController.html#permissions",
-                        "tf": 8.333333333333332
+                        "tf": 7.142857142857142
                       }
                     }
                   }
@@ -768,7 +784,7 @@ window.lunrData = {
                       "docs": {
                         "ViewController.html#permissions": {
                           "ref": "ViewController.html#permissions",
-                          "tf": 758.3333333333334
+                          "tf": 757.1428571428571
                         },
                         "ViewController.html#addPermission": {
                           "ref": "ViewController.html#addPermission",
@@ -821,7 +837,7 @@ window.lunrData = {
                 "docs": {
                   "ManagedController.html": {
                     "ref": "ManagedController.html",
-                    "tf": 9.090909090909092
+                    "tf": 8.333333333333332
                   }
                 }
               }
@@ -841,6 +857,31 @@ window.lunrData = {
                     "index.html": {
                       "ref": "index.html",
                       "tf": 110
+                    }
+                  }
+                }
+              }
+            },
+            "t": {
+              "docs": {},
+              "u": {
+                "docs": {},
+                "r": {
+                  "docs": {},
+                  "n": {
+                    "docs": {
+                      "ViewController.html#permissions": {
+                        "ref": "ViewController.html#permissions",
+                        "tf": 7.142857142857142
+                      },
+                      "ViewController.html#canDisplay": {
+                        "ref": "ViewController.html#canDisplay",
+                        "tf": 12.5
+                      },
+                      "ManagedController.html#canDisplay": {
+                        "ref": "ManagedController.html#canDisplay",
+                        "tf": 12.5
+                      }
                     }
                   }
                 }
@@ -963,27 +1004,6 @@ window.lunrData = {
                   }
                 }
               }
-            },
-            "t": {
-              "docs": {},
-              "u": {
-                "docs": {},
-                "r": {
-                  "docs": {},
-                  "n": {
-                    "docs": {
-                      "ViewController.html#canDisplay": {
-                        "ref": "ViewController.html#canDisplay",
-                        "tf": 12.5
-                      },
-                      "ManagedController.html#canDisplay": {
-                        "ref": "ManagedController.html#canDisplay",
-                        "tf": 12.5
-                      }
-                    }
-                  }
-                }
-              }
             }
           },
           "o": {
@@ -1056,7 +1076,7 @@ window.lunrData = {
                 },
                 "ManagedController.html": {
                   "ref": "ManagedController.html",
-                  "tf": 4.545454545454546
+                  "tf": 4.166666666666666
                 },
                 "ManagedController.html#permissions": {
                   "ref": "ManagedController.html#permissions",
@@ -1132,7 +1152,7 @@ window.lunrData = {
               "docs": {
                 "ViewController.html#permissions": {
                   "ref": "ViewController.html#permissions",
-                  "tf": 8.333333333333332
+                  "tf": 7.142857142857142
                 }
               },
               "v": {
@@ -1279,7 +1299,7 @@ window.lunrData = {
                         },
                         "ViewController.html#permissions": {
                           "ref": "ViewController.html#permissions",
-                          "tf": 16.666666666666664
+                          "tf": 7.142857142857142
                         },
                         "ViewController.html#initialize": {
                           "ref": "ViewController.html#initialize",
@@ -1315,7 +1335,7 @@ window.lunrData = {
                         },
                         "ManagedController.html": {
                           "ref": "ManagedController.html",
-                          "tf": 4.545454545454546
+                          "tf": 4.166666666666666
                         },
                         "ManagedController.html#permissions": {
                           "ref": "ManagedController.html#permissions",
@@ -1353,38 +1373,6 @@ window.lunrData = {
                           "ref": "ManagedController.html#canDisplay",
                           "tf": 12.5
                         }
-                      },
-                      "l": {
-                        "docs": {},
-                        "e": {
-                          "docs": {},
-                          "r": {
-                            "docs": {},
-                            "r": {
-                              "docs": {},
-                              "e": {
-                                "docs": {},
-                                "t": {
-                                  "docs": {},
-                                  "u": {
-                                    "docs": {},
-                                    "r": {
-                                      "docs": {},
-                                      "n": {
-                                        "docs": {
-                                          "ViewController.html#permissions": {
-                                            "ref": "ViewController.html#permissions",
-                                            "tf": 8.333333333333332
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
                       }
                     }
                   }
@@ -1398,34 +1386,10 @@ window.lunrData = {
                 "o": {
                   "docs": {},
                   "n": {
-                    "docs": {},
-                    "e": {
-                      "docs": {},
-                      "n": {
-                        "docs": {},
-                        "t": {
-                          "docs": {},
-                          "s": {
-                            "docs": {},
-                            "d": {
-                              "docs": {},
-                              "a": {
-                                "docs": {},
-                                "t": {
-                                  "docs": {},
-                                  "a": {
-                                    "docs": {
-                                      "ManagedController.html": {
-                                        "ref": "ManagedController.html",
-                                        "tf": 4.545454545454546
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
+                    "docs": {
+                      "ManagedController.html": {
+                        "ref": "ManagedController.html",
+                        "tf": 4.166666666666666
                       }
                     }
                   }
@@ -1610,7 +1574,7 @@ window.lunrData = {
               },
               "ManagedController.html": {
                 "ref": "ManagedController.html",
-                "tf": 4.545454545454546
+                "tf": 4.166666666666666
               }
             }
           },
@@ -1622,7 +1586,7 @@ window.lunrData = {
               },
               "ManagedController.html": {
                 "ref": "ManagedController.html",
-                "tf": 4.545454545454546
+                "tf": 4.166666666666666
               },
               "ManagedController.html#removeAllViews": {
                 "ref": "ManagedController.html#removeAllViews",
@@ -1665,7 +1629,7 @@ window.lunrData = {
                   },
                   "ManagedController.html": {
                     "ref": "ManagedController.html",
-                    "tf": 4.545454545454546
+                    "tf": 4.166666666666666
                   },
                   "ManagedController.html#views": {
                     "ref": "ManagedController.html#views",
@@ -2172,7 +2136,7 @@ window.lunrData = {
                     },
                     "ManagedController.html": {
                       "ref": "ManagedController.html",
-                      "tf": 4.545454545454546
+                      "tf": 4.166666666666666
                     },
                     "ManagedController.html#manageView": {
                       "ref": "ManagedController.html#manageView",
@@ -2650,7 +2614,7 @@ window.lunrData = {
                     "docs": {
                       "ViewController.html#permissions": {
                         "ref": "ViewController.html#permissions",
-                        "tf": 8.333333333333332
+                        "tf": 7.142857142857142
                       }
                     }
                   }
@@ -2688,7 +2652,7 @@ window.lunrData = {
                     "docs": {
                       "ViewController.html#permissions": {
                         "ref": "ViewController.html#permissions",
-                        "tf": 8.333333333333332
+                        "tf": 7.142857142857142
                       }
                     }
                   }
@@ -2837,7 +2801,7 @@ window.lunrData = {
                     "docs": {
                       "ManagedController.html": {
                         "ref": "ManagedController.html",
-                        "tf": 4.545454545454546
+                        "tf": 4.166666666666666
                       }
                     }
                   }
@@ -2847,7 +2811,7 @@ window.lunrData = {
           }
         }
       },
-      "length": 225
+      "length": 227
     },
     "corpusTokens": [
       "add",
@@ -2863,9 +2827,9 @@ window.lunrData = {
       "cleanup",
       "clear",
       "clearpermiss",
-      "componentsdata",
+      "compon",
       "control",
-      "controllerreturn",
+      "data",
       "develop",
       "display",
       "document",
@@ -3010,7 +2974,7 @@ window.lunrData = {
       "name": "permissions",
       "tags": "ViewController#permissions permissions",
       "summary": "",
-      "description": "Gets the permissions to the controllerReturn format: { include: [], exclude: [] }"
+      "description": "Gets the permissions to the controller Return format: { include: [], exclude: [] }"
     },
     "ViewController.html#initialize": {
       "id": "ViewController.html#initialize",
@@ -3120,7 +3084,7 @@ window.lunrData = {
       "name": "ManagedController",
       "tags": "ManagedController",
       "summary": "",
-      "description": "A managed controller that automatically sets up the componentsData can be passed to every view by passing using 'options'",
+      "description": "A managed controller that automatically sets up the components Data can be passed to every view by passing using 'options'",
       "body": ""
     },
     "ManagedController.html#views": {
